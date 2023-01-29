@@ -1,2 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
 0,Andytown,442.825000,,0.500000,Tone,110.9,88.5,023,NN,FM,5.00,,,,,,
+1,Apalachiola,444.400000,,0.000000,Tone,94.8,88.5,023,NN,FM,5.00,,,,,,
+2,Brooksville,444.825000,,5.000000,TSQL,88.5,146.2,023,NN,FM,5.00,,,,,,
